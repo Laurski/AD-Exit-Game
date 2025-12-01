@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{df8c229d-0e57-405f-b184-385b82e76110}">
 		<property name="assetPath">
-			<value>MC 1.1.1.wav</value>
+			<value>KARA/MC 1.1.1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
